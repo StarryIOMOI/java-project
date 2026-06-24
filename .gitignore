@@ -5,3 +5,7 @@ RemoteSystemsTempFiles/
 bin/
 build/
 target/
+
+.classpath
+.project
+.settings/
